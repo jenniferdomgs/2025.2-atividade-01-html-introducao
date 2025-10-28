@@ -92,6 +92,7 @@ ul {
 }
 
 .card {
+    flex-diretion: column;
     width: 100px;
     height: 100px;
     background-color: #FFFFFF;
@@ -113,6 +114,7 @@ ul {
     color: #89BAD9;
     transition: 0.3s;
 }
+
 
 @media (max-width: 768px) {
     #containerP {
